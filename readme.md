@@ -10,18 +10,18 @@ This repository contains my implementations and practice exercises related to Da
    - linkedList_nxt.cpp
 
 3. [Queue](#queue-implementations)
-   - queueLinkList.cpp (#linked-list-queue-c)
-   - queueArray.cpp(#array-queue-c)
-   - queue_stack.cpp(#stack-queue-c)
+   - queueLinkList.cpp
+   - queueArray.cpp
+   - queue_stack.cpp
 
 3. [Recursion](#recursion)
-    - fibonacci.cpp (#fibonacci-program-using-recursion-c)
-    - factorial.py (#factorial-program-using-recursion-py)
+    - fibonacci.cpp
+    - factorial.py 
 
 4. [Stack](#stack-implementations)
-   - stackLinkList.cpp (#linked-list-stack-c)
-   - stackDArray.cpp(#dynamic-array-stack-c)
-   - stackArray.cpp(#array-stack-c)
+   - stackLinkList.cpp
+   - stackDArray.cpp
+   - stackArray.cpp
 
 ## Custom Linked List
 
